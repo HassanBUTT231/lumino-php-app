@@ -1,2 +1,2 @@
 <?php
-echo "Hello from PHP, this is from pipline";
+echo "Hello from PHP, this is from pipeline";
